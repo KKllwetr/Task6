@@ -1,0 +1,11 @@
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.csprojAssemblyReference.cache
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.MainForm.resources
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.Properties.Resources.resources
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\bin\Debug\Cg_SixthProject.exe.config
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\bin\Debug\Cg_SixthProject.exe
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\bin\Debug\Cg_SixthProject.pdb
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.exe
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.pdb
+C:\Users\Valentin\source\repos\Computer_Graphics\Cg_SixthProject\Cg_SixthProject\obj\Debug\Cg_SixthProject.WriteForm.resources
